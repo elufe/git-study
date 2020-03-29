@@ -1,6 +1,6 @@
-Conflict2
+khs commit
+
 # git study
 git test
-
 
 Wow
