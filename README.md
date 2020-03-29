@@ -1,4 +1,4 @@
-Conflict
+conflict
 # git study
 git test
 
