@@ -1,6 +1,5 @@
-Conflict
+khs commit
 # git study
 git test
 
-ggggg
 Wow
