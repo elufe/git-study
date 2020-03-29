@@ -1,2 +1,2 @@
-# jhkim3619-naver.com
+# git study
 git test
