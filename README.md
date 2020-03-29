@@ -1,6 +1,6 @@
-conflict
+kjh
 # git study
-git test
 
+git test
 
 Wow
